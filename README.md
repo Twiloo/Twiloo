@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Twiloo !
+- 👀 I'm interested in computer science
+- 🌱 I’m currently learning C#
+- 💞️ I’m looking to collaborate on java projects
+- 📫 You can reach me on discord @is_op#0001
